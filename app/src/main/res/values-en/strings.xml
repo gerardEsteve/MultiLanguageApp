@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguageApp</string>
+    <string name="str_button">change language</string>
+    <string name="str_textview">hello world</string>
+    <string name="str_es">spanish</string>
+    <string name="str_ca" translatable="false">catalan</string>
+    <string name="str_en" translatable="false">english</string>
+</resources>
