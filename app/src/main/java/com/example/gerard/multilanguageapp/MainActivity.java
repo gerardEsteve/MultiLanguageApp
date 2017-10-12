@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView textview;
     private Locale locale;
     private Configuration config = new Configuration();
+    private String s;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
